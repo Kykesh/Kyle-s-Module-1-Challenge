@@ -8,8 +8,6 @@ Accessibility-Optimized Marketing Site
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
 - [License](#license)
 
 ## Description
@@ -45,19 +43,6 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd your-repository`
 3. Open the `index.html` file in your preferred browser.
 
-## Usage
-
-Describe how to use or deploy the project. Include any specific instructions or configurations that users need to be aware of.
-
-## Contribution
-
-If you would like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request.
 
 ## License
 
